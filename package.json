@@ -1,0 +1,12 @@
+{
+  "name": "lacture_5",
+  "version": "1.0.0",
+  "description": "Function Method",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayaz Ali",
+  "license": "MIT"
+}
